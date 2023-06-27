@@ -1,0 +1,6 @@
+mountain dew|1.0|32
+mirinda|1.0|1
+coca-cola|1.0|1
+mountain dew|1.0|34
+mirinda|1.0|1
+Pepsi|2.0|23
