@@ -1,6 +1,8 @@
-mountain dew|1.0|32
-mirinda|1.0|1
-coca-cola|1.0|1
-mountain dew|1.0|34
-mirinda|1.0|1
-Pepsi|2.0|23
+Coca-Cola|3.7|19
+Mountain dew|3.4|20
+Mirinda|3.2|20
+Pepsi|4.5|20
+Woda|2.0|20
+Tymbark|2.7|20
+Nestea|3.0|20
+Sprite|4.4|20
